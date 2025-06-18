@@ -3,7 +3,14 @@
 
 A smart, visually striking indoor fountain using programmable LEDs and vibrating magnets to simulate stunning visual effects like water flowing upwards or hovering in mid-air. Fully programmable through a natural-language interface powered by GPT and controlled by an ESP32 running RTOS tasks.
 
+![Lichtmuster GIF 2](FountainDemo2.gif)
+
+*Fig.1: Current version showing default pattern.*
+
 ![Lichtmuster GIF](FountainDemo.gif)
+
+*Fig.2: Prototype showing various light patterns.*
+
 > ⚠️ Note: Flickering is caused by the camera's frame rate. The live experience is much smoother.
 ---
 
